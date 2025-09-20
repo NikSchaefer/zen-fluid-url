@@ -1,0 +1,17 @@
+{
+  "1FE3E340-6D98-4E85-A20F-BE8FD6E43484": {
+    "id": "1FE3E340-6D98-4E85-A20F-BE8FD6E43484",
+    "name": "Fluid URL",
+    "description": "A minimal theme that makes the URL bar fluid and blends it with the tab bar.",
+    "homepage": "",
+    "style": "https://raw.githubusercontent.com/NikSchaefer/zen-fluid-url/refs/heads/main/Fluid%20URL/chrome.css",
+    "readme": "",
+    "image": "",
+    "author": "NikSchaefer",
+    "version": "1.0.0",
+    "tags": [],
+    "createdAt": "2025-09-20",
+    "updatedAt": "2025-09-20",
+    "enabled": true
+  }
+}
